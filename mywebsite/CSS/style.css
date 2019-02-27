@@ -1,0 +1,24 @@
+body {
+  background-color: yellow;
+}
+
+ul{
+  font-style: italic;
+  font-size : 30px;
+  color : #800000;
+}
+
+
+.page-background {
+  background-image:url(" https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=abstract-background-blur-255379.jpg&fm=jpg");
+  background-color: orange;
+  background-size: 150%;
+  background-repeat: no-repeat;
+
+}
+
+img{
+  border:5px solid green;
+  width : 300px;
+  height : 300px;
+}

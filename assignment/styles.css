@@ -1,0 +1,16 @@
+.item {
+  width : 800px;
+  height : 800px;
+}
+
+.deal{
+  width :200px;
+  height :200px;
+  position : absolute;
+  margin-top: 150px;
+}
+
+.product{
+  position : relative;
+
+}
