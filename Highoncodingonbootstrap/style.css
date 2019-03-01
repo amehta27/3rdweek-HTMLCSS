@@ -1,0 +1,58 @@
+.navbarmargin{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.div-color{
+  background-color: grey;
+}
+
+.div3{
+
+  background-color:orange;
+  padding-left: 10px;
+}
+
+.uldesign{
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+}
+
+.lipadding{
+  padding:5px;
+  list-style: none;
+}
+.alignment{
+  text-align: left;
+}
+
+.body-margin-left {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.body-margin-left-Categorie{
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: 100px;
+}
+.card-body{
+  margin-left: 20%;
+  background-color: grey;
+  /* margin-top: 20px; */
+
+}
+.card-title{
+  padding: 10px;
+  text-align: center;
+}
+
+p{
+  padding: 10px;
+  text-align: center;
+}
+.boxflex{
+  display: flex;
+  flex-direction: row;
+}
